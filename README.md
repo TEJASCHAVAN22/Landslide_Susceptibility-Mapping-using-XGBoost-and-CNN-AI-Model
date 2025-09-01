@@ -111,5 +111,12 @@ Function `plot_compare_landslide` visualizes and compares 2D landslide risk maps
 - [TensorFlow/Keras](https://keras.io/) 🧠
 
 ---
+## ✍️ Author
+
+Tejas Chavan  
+* GIS Expert at Government Of Maharashtra Revenue & Forest Department  
+* tejaskchavan22@gmail.com  
+* +91 7028338510  
+
 
 *This summary is based on the provided code and workflow for landslide risk mapping with GEE and ML pipelines.* ✨
