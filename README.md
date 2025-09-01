@@ -1,0 +1,2 @@
+# Landslide_Susceptibility-Mapping-using-XGBoost-and-CNN-AI-Model
+"Landslide Susceptibility Mapping using XGBoost and CNN AI models integrates terrain slope, NDVI, soil moisture, and precipitation data to predict risk zones. XGBoost handles tabular features while CNN captures spatial patterns, enabling accurate, high-resolution hazard assessment for informed land management and disaster mitigation."
